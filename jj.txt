@@ -1,0 +1,23 @@
+ Volume in drive C is S3A4884D004
+ Volume Serial Number is E42D-C119
+
+ Directory of C:\Users\sanjay
+
+08/03/2013  07:29 PM    <DIR>          .
+08/03/2013  07:29 PM    <DIR>          ..
+02/15/2013  09:29 PM    <DIR>          .swt
+05/16/2013  11:33 AM    <DIR>          Contacts
+08/03/2013  07:22 PM    <DIR>          Desktop
+08/02/2013  10:45 PM    <DIR>          Documents
+08/03/2013  07:21 PM    <DIR>          Downloads
+05/16/2013  11:33 AM    <DIR>          Favorites
+08/01/2012  06:30 PM            60,304 g2mdlhlpx.exe
+08/03/2013  07:29 PM                 0 jj.txt
+05/16/2013  11:33 AM    <DIR>          Links
+05/16/2013  11:33 AM    <DIR>          Music
+05/16/2013  11:33 AM    <DIR>          Pictures
+05/16/2013  11:33 AM    <DIR>          Saved Games
+05/16/2013  11:33 AM    <DIR>          Searches
+06/07/2013  05:17 PM    <DIR>          Videos
+               2 File(s)         60,304 bytes
+              14 Dir(s)  16,858,324,992 bytes free
